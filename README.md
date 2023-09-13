@@ -16,7 +16,7 @@ Design and develop a system that offers seamless interactions for users of a rid
 
 ## 🛠 Implementation Details
 
-- **Language**: Python
+- **Language**: Python, SQL
 - **Database**: PostgreSQL
 - **Library**: psycopg2
 
